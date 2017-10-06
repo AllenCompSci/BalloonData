@@ -24,6 +24,8 @@
         }
 	
 	$.get("temp.csv", function(data) {
+		animationEnabled: true,
+	zoomEnabled: true,
 	    var chart = new CanvasJS.Chart("chartContainer", {
 		    title: {
 		         text: "Temperature Data from Flight",
