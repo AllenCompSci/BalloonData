@@ -16,6 +16,7 @@ body, html {
 }
 
 body{
+   background-image: url("ye-old-floating-house.jpeg");
 background-size: cover;
 background-repeat: repeat-y;
   background-position: center center;
