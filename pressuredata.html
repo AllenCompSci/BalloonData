@@ -14,17 +14,17 @@
 		</style>
 	</head>
 	<body>
-<script src="../../code/highcharts.js"></script>
-<script src="../../modules/exporting.js"></script>
+<script src="../../BalloonData/code/highcharts.js"></script>
+<script src="../../BalloonData/modules/exporting.js"></script>
 
 
 <div id="container"></div>
 
 
-		<script src="d3.v3.min.js"></script>
+		<script src="BalloonData/d3.v3.min.js"></script>
 		<script type="text/javascript">
 			
-d3.text("SenseHat.csv", function(data) {
+d3.text("BalloonData/SenseHat.csv", function(data) {
          parsedCSV = d3.csv.parseRows(data);
   
 var parsedData = [];
