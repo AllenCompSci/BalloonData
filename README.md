@@ -47,3 +47,7 @@ ok hopefully everything works out if not then r.i.p. u can ask me i guess
 ~~ by ryan v.
 
 Project to list Data
+
+Work Done:
+
+Cosme: *Took a Codecademy of HTML *Worked on a test altitude graph *Currently working on Codecademy of JavaScript *Currently working on taking an input of data from a file and outputing it on the graph *https://github.com/oopsies/oopsies.github.io/blob/master/GraphTest.html
